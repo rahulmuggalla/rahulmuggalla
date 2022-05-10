@@ -9,6 +9,7 @@ Enthusiastic Undergrad pursuant looking for intern opportunities. Pursued skills
 * 🌍  I'm based in Vijayawada, Andhra Pradesh, India
 * ✉️  You can contact me at [rahulmuggalla02@proton.me / rahulmuggalla02@protonmail.com](mailto:rahulmuggalla02@proton.me / rahulmuggalla02@protonmail.com)
 * 🧠  I'm learning AI, ML, DL, Data Science, IOT, DevOps, DevSecOps, MLOps, Blockchain, Big Data,....
+* ⚡  I'm secretly Elon Musk...🤫 but don't tell anyone
 
 <a href="https://www.github.com/rahulmuggalla" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rahulmuggalla?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
