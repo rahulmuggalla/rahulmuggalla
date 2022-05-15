@@ -7,7 +7,8 @@ Developer
 Enthusiastic Undergrad pursuant looking for intern opportunities. Pursued skills like Python, Data Science, and Machine Learning. I always thought my dream was to be a Professional Developer. I have built few projects on my personal interest, you can check them in my GitHub Repositories.
 
 * 🌍  I'm based in Vijayawada, Andhra Pradesh, India
-* ✉️  You can contact me at [rahulmuggalla02@proton.me / rahulmuggalla02@protonmail.com](mailto:rahulmuggalla02@proton.me / rahulmuggalla02@protonmail.com)
+* ✉️  You can contact me at rahulmuggalla02@proton.me / rahulmuggalla02@protonmail.com
+* 🤝  I'm open to collaborating on Open Source Machine Learning Community
 * 🧠  I'm learning AI, ML, DL, Data Science, IOT, DevOps, DevSecOps, MLOps, Blockchain, Big Data,....
 * ⚡  I'm secretly Elon Musk...🤫 but don't tell anyone
 
@@ -28,6 +29,7 @@ src="https://img.shields.io/github/followers/rahulmuggalla?logo=github&style=for
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="36" height="36"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="36" height="36"/> </a>
 </p>
 
 
