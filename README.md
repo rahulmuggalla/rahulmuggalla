@@ -1,4 +1,4 @@
-Hi 👋 My name is Muggalla Rahul
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Muggalla Rahul
 ===============================
 
 Developer
@@ -12,8 +12,10 @@ Enthusiastic Undergrad pursuant looking for intern opportunities. Pursued skills
 * 🧠  I'm learning AI, ML, DL, Data Science, IOT, DevOps, DevSecOps, MLOps, Blockchain, Big Data,....
 * ⚡  I'm secretly Elon Musk...🤫 but don't tell anyone
 
-<a href="https://www.github.com/rahulmuggalla" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rahulmuggalla?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/rahulmuggalla" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/rahulmuggalla?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+![](https://visitor-badge.glitch.me/badge?page_id=rahulmuggalla.rahulmuggalla)
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Skills
 
