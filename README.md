@@ -36,6 +36,7 @@ Enthusiastic Undergrad pursuant looking for intern opportunities. Pursued skills
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer" title="Tableau"><img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" width="36" height="36" alt="Tableau" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/git.png" width="36" height="36" alt="Git" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="Visual Studio Code"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png" width="36" height="36" alt="Visual Studio Code" /></a>
+<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer" title="JetBrains"><img src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" width="36" height="36" alt="JetBrains" /></a>
 </p>
 
 ### Learning :
@@ -55,14 +56,14 @@ Enthusiastic Undergrad pursuant looking for intern opportunities. Pursued skills
 ### Socials :
 
 <p align="left"> 
- <a href="https://www.dev.to/rahulmuggalla" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/rahulmuggalla" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/_mr._.peculiar_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/muggalla-rahul-104441213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.stackoverflow.com/users/muggalla-rahul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
-<a href="https://www.kaggle.com/rahulmuggalla" target="blank" rel="noreferrer"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="rahulmuggalla" width="32" height="32" /></a> 
-<a href="https://leetcode.com/rahulmuggalla/" target="blank" rel="noreferrer"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="rahulmuggalla" width="32" height="32" /></a>
-<a href="https://trello.com/muggallarahul" target="_blank" rel="noreferrer"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/trello.svg" width="32" height="32" /></a>
+ <a href="https://www.dev.to/rahulmuggalla" target="_blank" rel="noreferrer" title="Dev Community"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/rahulmuggalla" target="_blank" rel="noreferrer" title="Github"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="http://www.instagram.com/_mr._.peculiar_" target="_blank" rel="noreferrer" title="Instagram"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/muggalla-rahul-104441213" target="_blank" rel="noreferrer" title="LinkedIn"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.stackoverflow.com/users/muggalla-rahul" target="_blank" rel="noreferrer" title="Stackoverflow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
+<a href="https://www.kaggle.com/rahulmuggalla" target="blank" rel="noreferrer" title="Kaggle"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="rahulmuggalla" width="32" height="32" /></a> 
+<a href="https://leetcode.com/rahulmuggalla/" target="blank" rel="noreferrer" title="Leetcode"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="rahulmuggalla" width="32" height="32" /></a>
+<a href="https://trello.com/muggallarahul" target="_blank" rel="noreferrer" title="Trello"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/trello.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges :
