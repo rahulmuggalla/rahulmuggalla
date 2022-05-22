@@ -7,13 +7,13 @@ Developer
 Enthusiastic Undergrad pursuant looking for intern opportunities. Pursued skills like Python, Data Science, and Machine Learning. I always thought my dream was to be a Professional Developer. I have built few projects on my personal interest, you can check them in my GitHub Repositories.
 
 * 🌍  I'm based in Vijayawada, Andhra Pradesh, India
-* ✉️  You can contact me at rahulmuggalla02@proton.me / rahulmuggalla02@protonmail.com
+* ✉️  You can contact me at [email](rahulmuggalla02@proton.me) :)
 * 🤝  I'm open to collaborating on Open Source Machine Learning Community
 * 🧠  I'm learning AI, ML, DL, Data Science, IOT, DevOps, DevSecOps, MLOps, Blockchain, Big Data,....
 * ⚡  I'm secretly Elon Musk...🤫 but don't tell anyone
 
 <a href="https://www.github.com/rahulmuggalla" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/rahulmuggalla?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-![](https://visitor-badge.glitch.me/badge?page_id=rahulmuggalla.rahulmuggalla)
+<a href="https://www.github.com/rahulmuggalla" target="_blank" rel="noreferrer"><img src="https://visitor-badge.glitch.me/badge?page_id=rahulmuggalla.rahulmuggalla" /></a>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -34,6 +34,7 @@ Enthusiastic Undergrad pursuant looking for intern opportunities. Pursued skills
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="36" height="36"/> </a>
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/PowerBI.png" width="36" height="36" alt="Power BI" /></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" width="36" height="36" alt="Tableau" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="36" height="36" alt="Tableau" /></a>
 </p>
 
 ### Socials
@@ -61,14 +62,8 @@ Enthusiastic Undergrad pursuant looking for intern opportunities. Pursued skills
 
 <a href="https://github.com/rahulmuggalla" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmuggalla&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/rahulmuggalla/Voice_Assistant" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmuggalla&repo=Voice_Assistant&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rahulmuggalla/Credit-Card-Fraud-Detection" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmuggalla&repo=Credit-Card-Fraud-Detection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/rahulmuggalla/Chat_Bot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmuggalla&repo=Chat_Bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rahulmuggalla/Real-Time-Sentiment-Analysis" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmuggalla&repo=Real-Time-Sentiment-Analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
 ### Support Me
+
+If you like what I do, maybe consider buying me a coffee 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/muggallarahul"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
