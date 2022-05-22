@@ -7,7 +7,7 @@ Developer
 Enthusiastic Undergrad pursuant looking for intern opportunities. Pursued skills like Python, Data Science, and Machine Learning. I always thought my dream was to be a Professional Developer. I have built few projects on my personal interest, you can check them in my GitHub Repositories. I'm a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
 * 🌍  I'm based in Vijayawada, Andhra Pradesh, India
-* ✉️  You can contact me at [email](rahulmuggalla02@proton.me) :)
+* ✉️  You can contact me at [email](rahulmuggalla02@protonmail.com) :)
 * 🤝  I'm open to collaborating on Open Source Machine Learning Community
 * 🧠  I'm learning AI, ML, DL, Data Science, IOT, DevOps, DevSecOps, MLOps, Blockchain, Big Data,....
 * ⚡  I'm secretly Elon Musk...🤫 but don't tell anyone
