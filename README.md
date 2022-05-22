@@ -30,6 +30,8 @@ src="https://img.shields.io/github/followers/rahulmuggalla?logo=github&style=for
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="36" height="36"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="36" height="36"/> </a>
+<a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/PowerBI.png" width="36" height="36" alt="Power BI" /></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" width="36" height="36" alt="Tableau" /></a>
 </p>
 
 ### Socials
