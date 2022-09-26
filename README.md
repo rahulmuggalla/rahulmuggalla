@@ -4,7 +4,7 @@
 Developer
 ---------
 
-Enthusiastic Undergrad pursuant looking for intern opportunities. Pursued skills like Python, Data Science, and Machine Learning. I always thought my dream was to be a Professional Developer. I have built few projects on my personal interest, you can check them in my GitHub Repositories. I'm a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+I'm a Smart Working and Enthusiastic Undergrad pursuant looking for intern opportunities. Pursued skills like Python, Data Science, and Machine Learning. I always thought my dream was to be a Professional Developer. I have built few projects on my personal interest, you can check them in my GitHub Repositories. I have done certifications from Universities like Harvard University, University of Helsinki, etc. and from Organizations like Google, Microsoft, AWS, IBM, etc. I'm a Versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
 * 🌍  I'm based in Vijayawada, Andhra Pradesh, India
 * ✉️  You can contact me at [email](rahulmuggalla02@protonmail.com) :)
