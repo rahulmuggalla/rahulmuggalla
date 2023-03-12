@@ -12,7 +12,7 @@ I'm a Smart Working and Enthusiastic Undergrad pursuant looking for intern oppor
 * 🧠  I'm learning AI, ML, DL, Data Science, IOT, DevOps, DevSecOps, MLOps, Blockchain, Big Data,....
 * ⚡  I'm secretly Elon Musk...🤫 but don't tell anyone
 
-[![](https://visitcount.itsvg.in/api?id=rahulmuggalla&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rahulmuggalla&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
