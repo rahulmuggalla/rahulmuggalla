@@ -9,7 +9,7 @@ I'm a Smart Working and Enthusiastic Undergrad pursuant looking for intern oppor
 * 🌍  I'm based in Vijayawada, Andhra Pradesh, India
 * ✉️  You can contact me at [email](rahulmuggalla02@protonmail.com) :)
 * 🤝  I'm open to collaborating on Open Source Machine Learning Community
-* 🧠  I'm learning AI, ML, DL, Data Science, IOT, DevOps, DevSecOps, MLOps, Blockchain, Big Data,....
+* 🧠  I'm learning AI / ML, Data Science, Flutter, Blockchain, IOT, DevOps, Big Data,....
 * ⚡  I'm secretly Elon Musk...🤫 but don't tell anyone
 
 [![](https://visitcount.itsvg.in/api?id=rahulmuggalla&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
