@@ -14,7 +14,7 @@ I'm a Smart Working and Enthusiastic Undergrad pursuant looking for intern oppor
 
 [![](https://visitcount.itsvg.in/api?id=rahulmuggalla&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahulmuggalla/rahulmuggalla/main/code.gif?raw=true" width="500" height="320" />
 
 
 # 🌐 Socials:
